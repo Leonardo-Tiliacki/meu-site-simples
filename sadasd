@@ -1,0 +1,48 @@
+[33mcommit c94cb9772cdf3e976f8b0e5694a9cf49d9b0a93d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 86fe9da 1c37fdd
+Author: Stanley Felix Bergamo <Stanley.Felix.Bergamo@outlook.com>
+Date:   Tue May 19 21:05:58 2026 -0300
+
+    Merge branch 'Leonardo-Tiliacki:main' into main
+
+[33mcommit 86fe9da4affcd88f792b54122906d0b48f87ed10[m
+Author: Stanley Felix Bergamo <Stanley.Felix.Bergamo@outlook.com>
+Date:   Tue May 19 21:05:49 2026 -0300
+
+    Create README.md
+
+[33mcommit 1c37fdd9a17e77440ee36b2b961a17ecda295e69[m
+Merge: 6748e35 51452b4
+Author: Leonardo Tiliacki <leonardo.tiliacki@gmail.com>
+Date:   Tue May 19 20:29:06 2026 -0300
+
+    Merge pull request #2 from Stanley-Felix-Bergamo/featrure/texto
+    
+    Adicionando fonts
+
+[33mcommit 51452b47624197cf2b5e277da5625277e5fb0dce[m[33m ([m[1;31morigin/featrure/texto[m[33m)[m
+Author: Stanley-Felix-Bergamo <stanley.felix.bergamo@outlook.com>
+Date:   Tue May 19 20:16:18 2026 -0300
+
+    Adicionando fonts
+
+[33mcommit 6748e356a26a601b401e11d87465079dd41ed9a7[m
+Merge: 68e86a7 97ff908
+Author: Leonardo Tiliacki <leonardo.tiliacki@gmail.com>
+Date:   Tue May 19 20:08:09 2026 -0300
+
+    Merge pull request #1 from Stanley-Felix-Bergamo/feature/melhorias
+    
+    add styles
+
+[33mcommit 97ff908cec39c398271f5d647373fa43b5f1e2c4[m[33m ([m[1;31morigin/feature/melhorias[m[33m)[m
+Author: Stanley-Felix-Bergamo <stanley.felix.bergamo@outlook.com>
+Date:   Tue May 19 19:55:33 2026 -0300
+
+    add styles
+
+[33mcommit 68e86a77b2461ef3e787c4eb6d63da7caa303864[m
+Author: LEONARDO TILIACKI BEZERRA DA SILVA <leonardo.tiliacki@gmail.com>
+Date:   Tue May 19 19:47:15 2026 -0300
+
+    Commit inicial da minha pagina
